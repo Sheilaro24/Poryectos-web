@@ -1,4 +1,4 @@
-# SHEILA -  GONZALO - LIZ
+
 #Vamos a crear una nueva version del ahorcado, donde vamos a partir de cero y debemos usar todo lo que hemos visto hasta ahora, programacion funcional, programacion orientada a objetos...
 #Este ejercicio se hara en grupos de 3 personas
 #La idea basica es el ahorcado con sus 7 posiciones, pero con estos nuevos requistos
